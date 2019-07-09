@@ -6,7 +6,7 @@
 # Test run server
 * $npm start
 
-# Test
+# Usage
 * Use REST Api 
 * POST /api/management/getNewsData
 * Can get news, sports, ent top 5 news
